@@ -23,7 +23,7 @@ public class MainActivity4 extends AppCompatActivity {
 
         // Crear un nuevo TextView dinámicamente
         TextView nuevoTextView = new TextView(this);
-        nuevoTextView.setText("Hola, Alberto");
+        nuevoTextView.setText("Hola, Alvaro");
 
         // Agregar el nuevo TextView al contenedor
         linearLayout.addView(nuevoTextView);
